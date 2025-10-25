@@ -1,0 +1,23 @@
+.footer {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer__copyright {
+  width: 104px;
+  height: 16px;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer__logo {
+  width: 105px;
+  height: 39px;
+}
+
+.footer__content {
+  display: flex;
+  justify-content: space-between;
+}
