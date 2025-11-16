@@ -17,7 +17,18 @@
 }
 
 .profile__edit-btn {
+  font-size: 16px;
+  line-height: 1;
+  font-weight: 500;
+  color: #212121;
+  padding: 0;
+  background-color: transparent;
+  border: none;
   margin-top: auto;
+  display: flex;
+  gap: 8px;
+  opacity: 0.7;
+  cursor: pointer;
 }
 
 .profile__name {
@@ -44,6 +55,18 @@
 }
 .profile__add-btn {
   margin-left: auto;
+  padding: 0;
+  width: 157px;
+  height: 52px;
+  background-color: #212121;
+  color: #fcf5e5;
+  border-radius: 8px;
+  align-self: end;
+  font-size: 16px;
+  line-height: 1;
+  font-weight: 500;
+  border: none;
+  cursor: pointer;
 }
 
 @media screen and (max-width: 627px) {
