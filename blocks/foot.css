@@ -6,9 +6,9 @@
 }
 
 .footer__copyright {
-  height: 16px;
   align-items: center;
   justify-content: center;
+  margin: 0;
 }
 
 .footer__logo {

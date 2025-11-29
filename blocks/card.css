@@ -35,3 +35,13 @@
     width: 100%;
   }
 }
+
+.card__title {
+  margin: 0;
+  font-size: 20px;
+  line-height: 1;
+  font-weight: 500;
+  color: #212121;
+  letter-spacing: 0%;
+  font-family: 'Poppins', sans-serif;
+}
