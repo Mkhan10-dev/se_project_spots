@@ -1,12 +1,11 @@
 .card {
-  max-width: 413px;
+  font-family: poppins, Arial, Helvetica, sans-serif;
   display: flex;
   flex-direction: column;
 }
 
 .card__image {
   height: 413px;
-  width: 413px;
   object-fit: cover;
   border-radius: 8px;
   margin-bottom: 12px;
@@ -31,8 +30,8 @@
   opacity: 1;
 }
 @media screen and (max-width: 627px) {
-  .card {
-    width: 100%;
+  .card__image {
+    height: 288px;
   }
 }
 
@@ -43,5 +42,5 @@
   font-weight: 500;
   color: #212121;
   letter-spacing: 0%;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }

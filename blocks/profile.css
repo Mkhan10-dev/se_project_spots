@@ -8,6 +8,7 @@
   margin-right: 20px;
   height: 190px;
   width: 190px;
+  border-radius: 8px;
 }
 
 .profile__column {
@@ -31,6 +32,10 @@
   cursor: pointer;
 }
 
+.profile__edit-btn:hover {
+  opacity: 0.7;
+}
+
 .profile__name {
   margin: 0 0 12px;
   font-weight: 500;
@@ -52,6 +57,9 @@
   -webkit-line-clamp: 3;
   webkit-box-orient: vertical;
   max-width: 420px;
+}
+.profile__add-btn:hover {
+  opacity: 0.7;
 }
 .profile__add-btn {
   margin-left: auto;
@@ -97,8 +105,8 @@
   }
 
   .profile__column {
-    text-align: center;
-    margin-right: 0;
+    align-items: center;
+    margin-bottom: 20px;
   }
 
   .profile__add-btn {

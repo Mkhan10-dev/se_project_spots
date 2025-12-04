@@ -3,9 +3,13 @@
 An image sharing site.
 
 ## Description
+
 Spots is a Website that allows users to Explore Enterestings Places.
 
 ### Overview
+
+Discovering on Social Media
+Exploring and Traveling new places
 
 ## Tech Stack
 
@@ -18,8 +22,6 @@ Spots is a Website that allows users to Explore Enterestings Places.
 This webpage is deployed to GitHub Pages
 
 - Deployment Link:
-
-
 
 * Intro
 * Figma
